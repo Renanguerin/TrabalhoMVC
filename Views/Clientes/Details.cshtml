@@ -1,0 +1,35 @@
+﻿@model MVC.Model.Cliente
+
+@{
+    ViewBag.Title = "Detalhes de Clientes";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Detalhes de Clientes</h2>
+
+<div>
+   
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.filmeeId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.filmeeId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Voltar para a lista de Clientes", "Index")
+</p>

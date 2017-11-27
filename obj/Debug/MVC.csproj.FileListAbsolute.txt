@@ -1,0 +1,106 @@
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\obj\Debug\MVC.csprojResolveAssemblyReference.cache
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\ApplicationInsights.config
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\MVC.dll.config
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\MVC.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\MVC.pdb
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\Antlr3.Runtime.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\EntityFramework.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\Microsoft.AI.Web.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\Newtonsoft.Json.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\System.Web.Helpers.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\System.Web.Mvc.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\System.Web.Optimization.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\System.Web.Razor.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\System.Web.WebPages.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\WebGrease.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\EntityFramework.xml
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\System.Web.Helpers.xml
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\System.Web.Mvc.xml
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\System.Web.Optimization.xml
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\System.Web.Razor.xml
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\System.Web.WebPages.xml
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\Antlr3.Runtime.pdb
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\Newtonsoft.Json.xml
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\Microsoft.AI.Web.xml
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\obj\Debug\MVC.dll
+C:\Users\mathe\Desktop\MVC5\MVC\MVC\obj\Debug\MVC.pdb
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\ApplicationInsights.config
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\MVC.dll.config
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\MVC.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\MVC.pdb
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\Antlr3.Runtime.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\EntityFramework.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\Microsoft.AI.Web.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\Newtonsoft.Json.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\System.Web.Helpers.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\System.Web.Mvc.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\System.Web.Optimization.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\System.Web.Razor.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\System.Web.WebPages.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\WebGrease.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\EntityFramework.xml
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\System.Web.Helpers.xml
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\System.Web.Mvc.xml
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\System.Web.Optimization.xml
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\System.Web.Razor.xml
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\System.Web.WebPages.xml
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\Newtonsoft.Json.xml
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\Microsoft.AI.Web.xml
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\obj\Debug\MVC.csprojResolveAssemblyReference.cache
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\obj\Debug\MVC.dll
+C:\Users\Renan Guerin\source\repos\MVC5\MVC\MVC\obj\Debug\MVC.pdb
